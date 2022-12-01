@@ -50,6 +50,22 @@ while (i<v1)
     i++;
 }
 
+//Создаю алгоритм бинарного поиска
+Console.WriteLine("__________________________________________________________");
+Console.Write("Введите ячейку массива чтобы посмотреть какое там число: ");
+int num = int.Parse(Console.ReadLine());
+Console.Write($"В выбранной ячейке массива число {arrayData[num]}.");
+
+Console.WriteLine("__________________________________________________________");
+Console.Write("Введите искомое значение в массиве: ");
+int search = int.Parse(Console.ReadLine());
+
+if (arrayData[v1/2]>search)
+
+
+
+
+
 Console.WriteLine("__________________");
 i=0;
 while (i<10)
