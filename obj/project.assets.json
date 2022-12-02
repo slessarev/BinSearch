@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\slesarev_a.AVI\\.nuget\\packages\\": {}
+    "C:\\Users\\slesarev_a\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\slesarev_a.AVI\\Documents\\cSharp\\BinSearch\\BinSearch.csproj",
+      "projectUniqueName": "C:\\Users\\slesarev_a\\Documents\\Python\\C_Sharp\\BinSearch\\homework\\BinSearch\\BinSearch.csproj",
       "projectName": "BinSearch",
-      "projectPath": "C:\\Users\\slesarev_a.AVI\\Documents\\cSharp\\BinSearch\\BinSearch.csproj",
-      "packagesPath": "C:\\Users\\slesarev_a.AVI\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\slesarev_a.AVI\\Documents\\cSharp\\BinSearch\\obj\\",
+      "projectPath": "C:\\Users\\slesarev_a\\Documents\\Python\\C_Sharp\\BinSearch\\homework\\BinSearch\\BinSearch.csproj",
+      "packagesPath": "C:\\Users\\slesarev_a\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\slesarev_a\\Documents\\Python\\C_Sharp\\BinSearch\\homework\\BinSearch\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\slesarev_a.AVI\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\slesarev_a\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
